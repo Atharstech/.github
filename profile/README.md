@@ -1,7 +1,7 @@
 <!-- Atharstech Organization README -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/164956065?s=200&v=4" alt="Atharstech Logo" width="120" />
+  <img src="https://avatars.githubusercontent.com/u/217566710?s=200&v=4" alt="Atharstech Logo" width="120" />
 </p>
 
 <h1 align="center">Welcome to <span style="color:#0078D4">Atharstech</span> 🚀</h1>
